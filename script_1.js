@@ -236,6 +236,6 @@ function gameStatus(){
     {
         ctx.font = '100px Arial';
         ctx.fillStyle = 'black';
-        ctx.fillText('GAME OVER', 170, 350);
-    }
+        ctx.fillText('GAME OVER', 170, 350);
+    }
 }
